@@ -3,13 +3,13 @@ import React from 'react'
 const Home = () => {
   return (
     <div>
-      <img src="/"  class="img-fluid w-100 pt-1" alt="..."/ >
+      <img src=""  class="img-fluid w-100 pt-1" alt="..."/ >
      <div class="row row-cols-1 row-cols-md-2 g-4 m-2">
   <div class="col">
     <div class="card">
-      <img src="https://images.slurrp.com/prod/articles/d0ef59lziil.webp" height="350px" class="card-img-top" alt="..."/>
+      <img src="https://4.imimg.com/data4/IQ/YH/MY-27211302/pav-bhaji.jpg" height="350px" class="card-img-top" alt="..."/>
       <div class="card-body">
-        <h5 class="card-title">Dosa </h5>
+        <h5 class="card-title">Pav Bhaji </h5>
         <p class="card-text"></p>
       </div>
     </div>
